@@ -1,0 +1,29 @@
+{
+  "name": "sample",
+  "author": "Pedro Lucas",
+  "main": "index.html",
+  "description": "Sample",
+  "version": "0.0.1",
+  "title": "Sample",
+  "window": {
+    "title": "Sample",
+    "icon": "",
+    "show": true,
+    "toolbar": true,
+    "frame": true,
+    "resizable": true,
+    "visible-on-all-workspaces": true,
+    "position": "center",
+    "min_width": 600,
+    "min_height": 600
+  },
+  "scripts": {
+    
+  },
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+    
+  }
+}
